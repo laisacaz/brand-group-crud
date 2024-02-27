@@ -1,5 +1,5 @@
 # Brand and group search and insert
-### This is my first project using Nuxt and Vue.js
+### This is my first project using Nuxt and Vue.js. We have two screens to search and register brand and groups classification for products.
 ## Build Setup
 
 ```bash
