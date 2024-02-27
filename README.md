@@ -1,5 +1,5 @@
 # Brand and group search and insert
-### This is my first project using Vue.js
+### This is my first project using Nuxt and Vue.js
 ## Build Setup
 
 ```bash
